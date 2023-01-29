@@ -1,0 +1,3 @@
+[submodule "lib/AVR_328P_32U4_ADC"]
+	path = lib/AVR_328P_32U4_ADC
+	url = https://github.com/Pliskin707/AVR_328P_32U4_ADC.git
